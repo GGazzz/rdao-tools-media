@@ -1,0 +1,17 @@
+# Only rendered slide / pin PNGs, this README and this file (marketing/media_repo.py checks every commit too)
+*
+!*/
+!README.md
+!.gitignore
+!week[0-9][0-9]/**/*.png
+.secrets/
+*.xlsx
+*.xls
+*.xlsm
+*.pdf
+*.zip
+*.json
+*.yaml
+*.yml
+*.txt
+*.html
